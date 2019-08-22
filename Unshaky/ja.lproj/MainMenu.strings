@@ -7,13 +7,13 @@
 */
 
 /* Class = "NSMenuItem"; title = "Open debug window"; ObjectID = "Iv3-MX-v73"; */
-"Iv3-MX-v73.title" = "デバッグ画面を開きます";
+"Iv3-MX-v73.title" = "デバッグ画面...";
 
 /* Class = "NSMenuItem"; title = "-"; ObjectID = "T9Q-qI-cKF"; */
 "T9Q-qI-cKF.title" = "-";
 
 /* Class = "NSMenuItem"; title = "Configure"; ObjectID = "TGg-Zy-iYa"; */
-"TGg-Zy-iYa.title" = "設定";
+"TGg-Zy-iYa.title" = "設定...";
 
 /* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "f5l-nJ-ecO"; */
 "f5l-nJ-ecO.title" = "アプデートを確認...";

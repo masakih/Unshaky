@@ -12,9 +12,9 @@
 
 "Configuration Window Title" = "Unshakyの設定";
 
-"Accessibility Help" = "アクセス権限が必要です。只今、Unshakyが設定画面を開こうとしています。 開かない場合、システム環境設定 -> セキュリティとプライバシー -> プライバシー -> アクセシビリティで Unshaky.app をリストに追加し、許可にしてください。 ";
+"Accessibility Help" = "Unshaky.appの使用にはアクセス権限が必要です。Unshakyが設定画面を開こうとしています。 開かない場合、システム環境設定 -> セキュリティとプライバシー -> プライバシー -> アクセシビリティで Unshaky.app をリストに追加し、許可にしてください。 ";
 
-"Invalid Delay" = "\"%@\" は無効なディレイです。整数を入力してください。";
+"Invalid Delay" = "\"%@\" は無効です。整数を入力してください。";
 
 "Paste the configuration here" = "コンフィグレーションをここにペーストしてください。";
 
